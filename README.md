@@ -1,5 +1,5 @@
 #  About Me:
-I build web experiences that blend clean development with AI-assisted creativity turning ideas into functional, scalable, and user-friendly applications from frontend to backend. I am willing to continuously learn, adapt, and explore new technologies to improve my skills and create better digital experiences.
+I build web experiences that blend clean development with AI-assisted creativity turning ideas into functional, scalable, and user-friendly applications from frontend to backend. Willing to continuously learn, adapt, and explore new technologies to improve my skills and create better digital experiences.
 
 
 ##  Socials:
